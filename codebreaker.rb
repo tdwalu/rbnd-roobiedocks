@@ -10,7 +10,7 @@
 # Below the lock is a code along with a series of instructions.
 # Follow these instructions, it looks like that will unlock the door.
 
-code = ".E?CIQN E?A EW 0RS, D?NA EQC,IN S,,I Z?TQAM,"
+code = ".E?CIQN E?A EW 0RS, D?NA EQC,IN S,.IZ?TQAM,"   
 
 # ---------------------------------------------------------------
 # | 0. Remove the first character in the code.                  |
